@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andry Setiawan Manzanaris</h1>
 <h3 align="center">My profession is as a front end developer</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" />
-</p>
-<img align="right" alt="Coding" width="250" height="400" src="image.jpg">
+<img align="right" alt="Coding" width="300" height="400" src="image.jpg">
 
 - 👨‍💻 You can also check out my portfolio at [asmfolio.me](http://asmfolio.me)
 
