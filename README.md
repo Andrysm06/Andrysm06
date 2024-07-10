@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Andry Setiawan Manzanaris</h1>
-<h3 align="center"> 
-My profession is as a front end developer</h3>
+<h3 align="center">My profession is as a front end developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" />
+</p>
 <img align="right" alt="Coding" width="250" height="400" src="image.jpg">
 
-- 👨‍💻 You can also check out my portfolio at [asmfolio.me](asmfolio.me)
+- 👨‍💻 You can also check out my portfolio at [asmfolio.me](http://asmfolio.me)
 
 - 📫 How to reach me **andrysetiawanm2206@gmail.com**
 
@@ -13,14 +14,12 @@ My profession is as a front end developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://www.linkedin.com/in/andrysetiawan-manzanaris-2809312ab/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Andrysm06" height="30" width="40" style="filter: invert(100%);"/>
-</a>
-<a href="https://www.instagram.com/andrysm06/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Andrysm06" height="30" width="40" style="filter: invert(100%);"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/andrysetiawan-manzanaris-2809312ab/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Andrysm06" height="30" width="40" style="filter: invert(100%);"/>
+  </a>
+  <a href="https://www.instagram.com/andrysm06/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Andrysm06" height="30" width="40" style="filter: invert(100%);"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
